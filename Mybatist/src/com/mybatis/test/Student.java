@@ -3,7 +3,7 @@ package com.mybatis.test;
 public class Student {
 
 	private int id;    
-	private String name;//xuesheng
+	private String name;
 	private int age; //nianling
 	public Student() {//sdfgsad
 		super();
