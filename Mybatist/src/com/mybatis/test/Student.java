@@ -2,9 +2,9 @@ package com.mybatis.test;
 
 public class Student {
 
-	private int id;    
+	private int id;  
 	private String name;
-	private int age; //第三次
+	private int age; //第三次是的繁华的回复
 	public Student() {
 		super();
 	
