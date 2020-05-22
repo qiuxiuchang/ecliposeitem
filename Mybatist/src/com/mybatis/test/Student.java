@@ -4,7 +4,7 @@ public class Student {
 
 	private int id;  
 	private String name;
-	private int age; //第三次是的繁华的回复
+	private int age; //第三次
 	public Student() {
 		super();
 	
