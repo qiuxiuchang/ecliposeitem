@@ -5,7 +5,7 @@ public class Student {
 	private int id;    
 	private String name;
 	private int age; 
-	public Student() {//sdfgsad
+	public Student() {
 		super();
 	
 	}
