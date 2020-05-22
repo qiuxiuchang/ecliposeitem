@@ -6,7 +6,7 @@ public class Student {
 	private String name;//学生姓名
 	private int age; //学生姓名
 	
-	public Student() {//无参构造方法
+	public Student() {
 		super();
 	
 	}
@@ -16,7 +16,7 @@ public class Student {
 		this.name = name;
 		this.age = age;
 	}
-	public int getId() {//学号的getidfangfa
+	public int getId() {
 		return id;
 	}
 	public void setId(int id) {
