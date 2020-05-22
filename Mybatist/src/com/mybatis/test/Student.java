@@ -2,7 +2,7 @@ package com.mybatis.test;
 
 public class Student {
 
-	private int id;    //第一次
+	private int id;    
 	private String name;//第二次
 	private int age; //第三次
 	public Student() {
