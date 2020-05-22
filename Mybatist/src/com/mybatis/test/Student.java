@@ -19,10 +19,10 @@ public class Student {
 	public int getId() {//学号的getidfangfa
 		return id;
 	}
-	public void setId(int id) {//学号的set方法
+	public void setId(int id) {
 		this.id = id;
 	}
-	public String getName() {//学生名字的get方法
+	public String getName() {
 		return name;
 	}
 	public void setName(String name) {//set方法了
