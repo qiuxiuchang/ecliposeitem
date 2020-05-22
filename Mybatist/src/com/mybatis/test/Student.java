@@ -2,7 +2,7 @@ package com.mybatis.test;
 
 public class Student {
 
-	private int id;    
+	private int id;    //xuesheng 
 	private String name;
 	private int age; 
 	public Student() {
