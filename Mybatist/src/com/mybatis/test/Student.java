@@ -5,7 +5,7 @@ public class Student {
 	private int id;    //xuesheng 
 	private String name;//xuesheng
 	private int age; //nianling
-	public Student() {
+	public Student() {//sdfgsad
 		super();
 	
 	}
