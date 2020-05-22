@@ -8,7 +8,7 @@ import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
-//河海
+//githubtest
 public class TestMybatis {
 
 	public static void mainqueryOne() throws IOException {
