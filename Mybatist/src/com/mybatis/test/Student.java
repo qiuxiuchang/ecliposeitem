@@ -4,7 +4,7 @@ public class Student {
 
 	private int id;    
 	private String name;
-	private int age; //nianling
+	private int age; 
 	public Student() {//sdfgsad
 		super();
 	
