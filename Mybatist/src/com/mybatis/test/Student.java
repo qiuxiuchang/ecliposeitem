@@ -2,7 +2,7 @@ package com.mybatis.test;
 
 public class Student {
 
-	private int id;    //学生学号
+	private int id;    
 	private String name;//学生姓名
 	private int age; //学生姓名
 	
